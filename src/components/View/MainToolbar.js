@@ -102,7 +102,7 @@ function MainToolbar(props) {
         <AppBar className={classes.appBar} position='static'>
             <Toolbar>
                 <img src={logo} alt="MAPS" style={{paddingRight: '10px'}}/>
-                <Typography className={classes.textColor} variant="h6" noWrap>Media Asset Preparation System</Typography>
+                <Typography className={classes.textColor} variant="h6" noWrap>Roper Technologies - Gets your Cloud On</Typography>
 
                 <section className={classes.rightToolbarControls}>
                     <IconButton className={classes.iconButtonSpacing} onClick={handleProfileClick}>
